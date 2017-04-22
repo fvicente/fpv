@@ -1,0 +1,73 @@
+BODY {
+	margin: 5;
+	background: #FFFFFF ;
+	}
+
+UL {
+	text-indent: 5;
+	}
+	
+INPUT.text {
+	border: solid #A0A0A0 ;
+	border-width: 1 ;
+	font-family: verdana,sans;
+	Font-size: 10 ;
+	color: #333333;
+	}
+	
+SELECT {
+	font-family: verdana,sans;
+	Font-size: 10;
+	}
+
+TABLE.blanco1 {
+	background: #ffffff ;
+	border: solid #666666 ;
+	border-width: 1 ;
+	}
+
+TABLE.gris1 {
+	background: #eeeeee ;
+	border: solid #666666 ;
+	border-width: 1 ;
+	}
+
+TD.menu {
+	cursor: pointer;
+	}
+
+A {
+	font-family: verdana,sans;
+	font-weight: bold ;
+	font-size: 10 ;
+	color: #666666 ;
+	text-decoration: none
+	}
+
+A:hover {
+	font-family: verdana,sans;
+	font-weight: bold ;
+	font-size: 10 ;
+	color: #999999 ;
+	text-decoration: none
+	}
+
+FONT.xx-normal {
+	font-family: verdana,sans;
+	font-weight: normal ;
+	font-size: 10 ;
+	color: #666666 ;
+	}
+
+FONT.xx-negrita {
+	font-family: verdana,sans;
+	font-weight: bold ;
+	font-size: xx-small ;
+	color: #666666 ;
+	}
+
+FONT.titulo {
+	font-family: verdana,sans;
+	color: #444444 ;
+	font-size: 22;
+	}
